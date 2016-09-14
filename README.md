@@ -1,7 +1,8 @@
 # Sugestões para a BrazilJS Conf
-Sugira um conteúdo, palestrante, empresa ou qualquer outra coisa para a BrazilJS Conf :)
 
 ## Guidelines
+Seguindo uma sugestão incrível de alguns participantes da edição de 2016 (via pesquisa de satisfação), estamos abrindo para a comunidade a possibilidade de influenciar mais ativamente na organização do evento.  
+Sugira um conteúdo, palestrante, empresa ou qualquer outra coisa para a BrazilJS Conf :)
 
 ### Conteúdo
 Crie uma issue com a label `conf-content` e descreva qual o conteúdo você gostaria de ver em próximas edições da BrazilJS Conf.  
