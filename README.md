@@ -11,7 +11,8 @@ O objetivo de cada issue é gerar uma discussão saudável na comnidade e facili
 Um exemplo de sugestão:  
 >
 Título da issue: React  
-Descrição: Gostaria que a BrazilJS Conf tivesse mais palestras sobre React, pois é uma tecnologia bastante difundida no mercado.    Link: https://facebook.github.io/react/  
+Descrição: Gostaria que a BrazilJS Conf tivesse mais palestras sobre React, pois é uma tecnologia bastante difundida no mercado.  
+Link: https://facebook.github.io/react/  
 
 
 ### Palestrante
