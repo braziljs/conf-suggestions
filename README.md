@@ -6,6 +6,6 @@ Indique um conteúdo, palestrante, empresa ou qualquer outra sugestão para a Br
 Veja como contribuir na seção [CONTRIBUTING](CONTRIBUTING.md)
 
 Navegue pelas categorias para saber quais sugestões já foram feitas e estão sendo analisadas:  
-- [Sugestões para plestrantes](https://github.com/braziljs/conf-suggestions/issues?q=is%3Aissue+is%3Aopen+label%3Aconf-speaker)  
-- [Sugestões para conteúdo](https://github.com/braziljs/conf-suggestions/issues?q=is%3Aissue+is%3Aopen+label%3Aconf-content)  
+- [Sugestões de palestrantes](https://github.com/braziljs/conf-suggestions/issues?q=is%3Aissue+is%3Aopen+label%3Aconf-speaker)  
+- [Sugestões de conteúdo](https://github.com/braziljs/conf-suggestions/issues?q=is%3Aissue+is%3Aopen+label%3Aconf-content)  
 - [Outros](https://github.com/braziljs/conf-suggestions/issues?q=is%3Aissue+is%3Aopen+label%3Aconf-other)
