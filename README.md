@@ -1,6 +1,6 @@
 # Sugestões para a BrazilJS Conf
 
-![BrazilJS 2017](images/braziljs-2016.jpg)  
+![BrazilJS 2017](images/21366593_1570129226400343_247589437266139815_o.jpg)  
 
 Seguindo uma sugestão incrível de alguns participantes da edição de 2016 (via pesquisa de satisfação), estamos abrindo para a comunidade a possibilidade de influenciar mais ativamente na organização do evento.  
 Indique um conteúdo, palestrante, empresa ou qualquer outra sugestão para a BrazilJS Conf :)  
